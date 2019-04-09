@@ -1,0 +1,365 @@
+([('Perceptron.exe',
+   'C:\\Users\\Tiny Jake\\Documents\\CMPE 452\\Assignment '
+   '1\\build\\Perceptron\\Perceptron.exe',
+   'EXECUTABLE'),
+  ('Perceptron.exe.manifest',
+   'C:\\Users\\Tiny Jake\\Documents\\CMPE 452\\Assignment '
+   '1\\build\\Perceptron\\Perceptron.exe.manifest',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python35.dll',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\python35.dll',
+   'BINARY'),
+  ('pywintypes35.dll',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\pypiwin32_system32\\pywintypes35.dll',
+   'BINARY'),
+  ('pythoncom35.dll',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\pypiwin32_system32\\pythoncom35.dll',
+   'BINARY'),
+  ('win32trace',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32wnet',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\win32\\win32wnet.pyd',
+   'EXTENSION'),
+  ('win32com.shell.shell',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('win32api',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('win32evtlog',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\win32\\win32evtlog.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('numpy.core.multiarray',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\core\\multiarray.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core.umath',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\core\\umath.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg.cython_lapack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\linalg\\cython_lapack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg.cython_blas',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\linalg\\cython_blas.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse._sparsetools',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\sparse\\_sparsetools.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse._csparsetools',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\sparse\\_csparsetools.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy._lib._ccallback_c',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\_lib\\_ccallback_c.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._decomp_update',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\linalg\\_decomp_update.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._ellip_harm_2',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\special\\_ellip_harm_2.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._lsq.givens_elimination',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_lsq\\givens_elimination.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._nnls',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_nnls.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._slsqp',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_slsqp.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._zeros',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_zeros.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._minpack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_minpack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._trlib._trlib',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_trlib\\_trlib.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._cobyla',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_cobyla.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize.moduleTNC',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\moduleTNC.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._lbfgsb',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_lbfgsb.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize.minpack2',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\minpack2.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.optimize._group_columns',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\optimize\\_group_columns.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.linalg.eigen.arpack._arpack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\sparse\\linalg\\eigen\\arpack\\_arpack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.linalg.dsolve._superlu',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\sparse\\linalg\\dsolve\\_superlu.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.sparse.linalg.isolve._iterative',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\sparse\\linalg\\isolve\\_iterative.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial._hausdorff',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\spatial\\_hausdorff.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial._distance_wrap',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\spatial\\_distance_wrap.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial._voronoi',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\spatial\\_voronoi.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial.qhull',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\spatial\\qhull.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.spatial.ckdtree',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\spatial\\ckdtree.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate.interpnd',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\interpolate\\interpnd.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate._ppoly',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\interpolate\\_ppoly.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate._bspl',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\interpolate\\_bspl.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate.dfitpack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\interpolate\\dfitpack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.interpolate._fitpack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\interpolate\\_fitpack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate.lsoda',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\integrate\\lsoda.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate._dop',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\integrate\\_dop.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate.vode',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\integrate\\vode.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate._quadpack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\integrate\\_quadpack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.integrate._odepack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\integrate\\_odepack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._comb',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\special\\_comb.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special.specfun',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\special\\specfun.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._ufuncs',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\special\\_ufuncs.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.special._ufuncs_cxx',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\special\\_ufuncs_cxx.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._solve_toeplitz',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\linalg\\_solve_toeplitz.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._flinalg',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\linalg\\_flinalg.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._flapack',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\linalg\\_flapack.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.linalg._fblas',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\linalg\\_fblas.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.core.multiarray_tests',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\core\\multiarray_tests.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32pdh',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy.random.mtrand',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\random\\mtrand.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.fft.fftpack_lite',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\fft\\fftpack_lite.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg._umath_linalg',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy.linalg.lapack_lite',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\linalg\\lapack_lite.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_pywrap_tensorflow_internal',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\tensorflow\\python\\_pywrap_tensorflow_internal.pyd',
+   'EXTENSION'),
+  ('scipy.ndimage._ni_label',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\ndimage\\_ni_label.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy.ndimage._nd_image',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\scipy\\ndimage\\_nd_image.cp35-win_amd64.pyd',
+   'EXTENSION'),
+  ('MSVCR100.dll', 'C:\\WINDOWS\\system32\\msvcr100.dll', 'BINARY'),
+  ('mfc100u.dll',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\Pythonwin\\mfc100u.dll',
+   'BINARY'),
+  ('libopenblas.BNVRK7633HSX7YVO2TADGR4A5KEKXJAW.gfortran-win_amd64.dll',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\numpy\\.libs\\libopenblas.bnvrk7633hsx7yvo2tadgr4a5kekxjaw.gfortran-win_amd64.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Tiny Jake\\Documents\\CMPE 452\\Assignment '
+   '1\\build\\Perceptron\\base_library.zip',
+   'DATA'),
+  ('lib2to3\\PatternGrammar3.5.3.final.0.pickle',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\lib2to3\\PatternGrammar3.5.3.final.0.pickle',
+   'DATA'),
+  ('certifi\\old_root.pem',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\certifi\\old_root.pem',
+   'DATA'),
+  ('lib2to3\\tests\\data\\README',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\lib2to3\\tests\\data\\README',
+   'DATA'),
+  ('lib2to3\\PatternGrammar.txt',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\lib2to3\\PatternGrammar.txt',
+   'DATA'),
+  ('lib2to3\\Grammar.txt',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\lib2to3\\Grammar.txt',
+   'DATA'),
+  ('certifi\\weak.pem',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\certifi\\weak.pem',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\Include\\pyconfig.h',
+   'DATA'),
+  ('lib2to3\\Grammar3.5.3.final.0.pickle',
+   'c:\\users\\tiny '
+   'jake\\appdata\\local\\programs\\python\\python35\\lib\\lib2to3\\Grammar3.5.3.final.0.pickle',
+   'DATA')],)

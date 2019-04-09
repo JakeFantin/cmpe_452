@@ -1,0 +1,175 @@
+Setosa = [1,0,0] Versicolor = [0,1,0] Virginica = [0,0,1]
+
+--------------------------------------------------------------------------
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,0,1] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,0,1] : [0,1,0] : incorrect
+[0,0,1] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,1,0] : [0,0,1] : incorrect
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,1,0] : [0,0,1] : incorrect
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,1,0] : [0,0,1] : incorrect
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[1,0,0] : [1,0,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,0] : [0,1,0] : incorrect
+[0,0,1] : [0,1,0] : incorrect
+[0,1,0] : [0,1,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,1,0] : [0,1,0] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,0,0] : [0,0,1] : incorrect
+[0,0,1] : [0,0,1] : correct
+[0,0,0] : [0,0,1] : incorrect
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+[0,1,0] : [0,0,1] : incorrect
+[0,0,1] : [0,0,1] : correct
+[0,0,1] : [0,0,1] : correct
+Correct : 113
+Incorrect : 37
+Error : 0.24666666666666667
+
+Iterations: 3000
+Exit Criteria: Whether total iterations are complete, or an iteration is compeleted without a single error.
+
+Learning Rate: 0.5
+Starting Weights: [0, 0, 1, 0, 1] : [1, 1, 1, 2, 0] : [0, 0, 1, 2, 1]
+Final Weights: [0.8500000000000005, 4.699999999999999, -5.65, -2.649999999999999, 2.0] : [-149.70000000000223, -378.0500000000048, 66.30000000000813, -132.75000000000077, -1776.0] : [-256.8999999999979, -209.95000000000246, 240.94999999999243, 313.4000000000082, -528.5]
+--------------------------------------------------------------------------
+Precision :: Recall
+
+My Model:
+Setosa: 1.0 :: 1.0
+Versicolor: 0.8260869565217391 :: 0.38
+Virginica: 0.9166666666666666 :: 0.88
+
+Tool:
+Setosa: 1.0 :: 1.0
+Versicolor: 0.94 :: 1.0
+Virginica: 1.0 :: 0.94
