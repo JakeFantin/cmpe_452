@@ -1,0 +1,49 @@
+Wine Quality Prediction - Design Choices + Performance Statistics
+
+Design was based of knowledged gained from a tutorial online, modified to fit my needs.
+
+Initial Weights were randomized between zero and one. 
+
+Node outputs were percentages of correctness, with the greates percentage winning, as there was no linear seperability between classes this seemed like the appropriate path.
+
+Learning rate, after ecperimentation was just 1. Lower than that seemed to get stuck in local minima, larger than that terminated early because the error would spike.
+
+Termination critera, specified number of interations reached or sum of error started increasing too much. Sum of error is allowed to go up small amounts to escape local minima, but too much usually indicates we hit out global minima.
+
+Layers and Nodes:
+
+One hidden layer, as I was taught in Data Mining is convention, as well as the fact that it has been proven for classificaiton problems that one hidden layer is just as good as any larger number.
+Seven nodes in the hidden layer - mean between output and input node numbers.
+
+11 input layer nodes for each input, 3 output layer nodes for each class
+
+No momentum value used
+
+Data Preprocessing:
+Normalized data by scaling from 0-1 so that outliers wouldn't affect the learning so much. I ran it without preprocessing, it couldn't identify anything other than the 5 class.
+
+
+Used 70% for training, 30% for Testing/Validation, didn't make several models so I did not make a seperate validation set. Test set was plucked at random from the main data set, leaving training with the rest.
+
+Final Weights:
+
+Hidden Layer Weights: Node1[6.634339977103496, 8.040126218972523, 15.456285911303501, -21.820695343170453, 21.3987682697455, -13.61306872380157, -26.950181253695302, 26.624658290344048, -7.571666458991843, -4.1461363552938435, -8.3983121256473, -3.580169265461689]}, {Node 2: [12.247755349583903, -44.15744102632304, -0.7406992900374573, 0.08904579799257392, 20.873525509710706, -4.8158412360176825, 5.522794863708502, 4.4736927093844505, -5.301401908675739, -4.506018487266784, -8.463671323373962, -1.9704394425974303]}, {Node 3: [1.6312891442492035, 1.2858316602819526, 10.59897631315828, -25.997996757953718, 13.313697840555102, -23.186187744566926, 25.127893656041426, 10.049873224389057, -6.148256245347373, 7.798277759775962, -1.06027731420321, -12.920268425390546]}, {Node 5: [-0.2764984915606313, 0.841373640501697, 17.00005788699681, 10.304121166016868, -47.02910624814647, 1.2536039047054173, -17.22040690146418, -16.446569885947724, 13.031629675960074, 13.373709263841908, 9.564025267981222, -2.302619479181082]}, {Node 6: [7.76250770440198, -19.633661634352986, 9.350069646046135, -0.255598390448046, -4.689759326020581, -7.469293870220073, 2.7620282776830347, 5.9621553695488805, 5.005743632032389, 0.5396125678315971, -4.305232326437945, -9.011443749208357]}, {Node 7: [-19.07560550671545, 11.828670326133267, -18.44713730336439, -7.397427043109215, 11.966685619517403, 6.993890463115068, -0.8790572961740298, 13.689758011609614, 2.50091746829916, -13.111573906989108, -10.30646443702339, 10.29225662783339]}]
+Output Layer Weights: Node1[8.44314339474262, -8.535353767887674, 12.032585350593926, -5.097383752586156, 0.364508458048359, 3.090087535820444, 11.688618320945661, 2.3231192156212375]}, {Node2: [-6.138756164999637, 3.9753114632340165, -6.475009983252738, 3.4226318250754324, 0.6497498975686544, -2.860304665546812, -7.90553543583413]}, {Node 3: [-9.820236608998089, 8.931717621105257, -8.094103598906168, 4.176305942035888, -9.134820959619875, 0.18214576207415697, -4.656699180148549, -6.20161912365443]}]
+
+
+
+Confusion Matrix:
+
+		Predicted 5	Predicted 7	Predicted 8
+
+Actual 5	417		34		0		451
+Actual 7	77		170		0		247
+Actual 8	13		41		2		56
+
+		507		245		2
+
+Recall and Percision
+Class 5 Recall and Percision: 0.9246119733924612 and 0.9246119733924612
+Class 7 Recall and Percision: 0.6882591093117408 and 0.6882591093117408
+Class 8 Recall and Percision: 0.03571428571428571 and 0.03571428571428571
+
